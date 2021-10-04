@@ -1,0 +1,7 @@
+Function demo3($value)
+{
+    reg add "HKEY_CURRENT_USER\Control Panel\Desktop\" /v Wallpaper /t REG_SZ /d $value /f
+    rundll32.exe user32.dll, UpdatePerUserSystemParameters, 0, $false
+}
+IEX (New-Object Net.WebClient).DownloadFile("http://ip:port/image", "C:\Windows\Temp\wallpaper.jpg")
+demo3("C:\Windows\Temp\wallpaper.jpg")

@@ -20,8 +20,8 @@ REFERENCIAS
 Rubber Ducky
 
 Tienda Hak5 aprox 45$ -> https://hak5.org/products/usb-rubber-ducky-deluxe
-Guia paso a paso de uso de Rubber (Spanish)-> https://ingoroman.medium.com/hacking-con-rubber-ducky-eda784b6e5b4
 
+Guia paso a paso de uso de Rubber (Spanish)-> https://ingoroman.medium.com/hacking-con-rubber-ducky-eda784b6e5b4
 
 Alternativas
 

