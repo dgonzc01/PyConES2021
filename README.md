@@ -9,11 +9,11 @@ Si habeis trabajado alguna vez con Rubber, tiene un tedioso problema y es que ca
 
 Presentación del diseño actual:
 
-![[Pasted image 20211004095600.png]]
+![image](![[image1.png]])
 
 Esquema del nuevo diseño
 
-![[Pasted image 20211004095619.png]]
+![[image2.png]]
 
 REFERENCIAS
 
