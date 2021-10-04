@@ -9,11 +9,11 @@ Si habeis trabajado alguna vez con Rubber, tiene un tedioso problema y es que ca
 
 Presentación del diseño actual:
 
-![image](![[image1.png]])
+![image](https://github.com/dgonzc01/PyConES2021/blob/main/Images/image1.png)
 
 Esquema del nuevo diseño
 
-![[image2.png]]
+![image](https://github.com/dgonzc01/PyConES2021/blob/main/Images/image2.png)
 
 REFERENCIAS
 
